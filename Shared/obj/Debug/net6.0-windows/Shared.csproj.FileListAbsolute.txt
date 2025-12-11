@@ -1,0 +1,13 @@
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\bin\Debug\net6.0-windows\Shared.deps.json
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\bin\Debug\net6.0-windows\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\bin\Debug\net6.0-windows\Shared.pdb
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\Shared.csproj.AssemblyReference.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\Shared.AssemblyInfoInputs.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\Shared.AssemblyInfo.cs
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\Shared.sourcelink.json
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\refint\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\Shared.pdb
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net6.0-windows\ref\Shared.dll

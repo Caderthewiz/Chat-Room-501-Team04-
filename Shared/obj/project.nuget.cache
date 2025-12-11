@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRKI4OoJuRg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cader\\Documents\\Coding Projects\\CIS 501\\Projects\\Final-Project\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cader\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\cader\\.nuget\\packages\\streamthreads\\2022.8.12.100\\streamthreads.2022.8.12.100.nupkg.sha512",
+    "C:\\Users\\cader\\.nuget\\packages\\websocket-sharp-net8.0\\1.0.3.1\\websocket-sharp-net8.0.1.0.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

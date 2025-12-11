@@ -1,0 +1,45 @@
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\bin\Debug\net8.0-windows\Shared.deps.json
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\bin\Debug\net8.0-windows\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\bin\Debug\net8.0-windows\Shared.pdb
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.csproj.AssemblyReference.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.LoginView.resources
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.csproj.GenerateResource.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.AssemblyInfoInputs.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.AssemblyInfo.cs
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.sourcelink.json
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\refint\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\Shared.pdb
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\temp\obj\Debug\net8.0-windows\ref\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\bin\Debug\net8.0-windows\Shared.deps.json
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\bin\Debug\net8.0-windows\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\bin\Debug\net8.0-windows\Shared.pdb
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.csproj.AssemblyReference.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.LoginView.resources
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.csproj.GenerateResource.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.AssemblyInfoInputs.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.AssemblyInfo.cs
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.sourcelink.json
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\refint\Shared.dll
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\Shared.pdb
+C:\Users\Ryan Muthuhfuckuh\source\repos\501-Final-Temp-Fix\Shared\obj\Debug\net8.0-windows\ref\Shared.dll
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\bin\Debug\net8.0-windows\Shared.deps.json
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\bin\Debug\net8.0-windows\Shared.dll
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\bin\Debug\net8.0-windows\Shared.pdb
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.csproj.AssemblyReference.cache
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.LoginView.resources
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.csproj.GenerateResource.cache
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.AssemblyInfoInputs.cache
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.AssemblyInfo.cs
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.csproj.CoreCompileInputs.cache
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.sourcelink.json
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.dll
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\refint\Shared.dll
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\Shared.pdb
+C:\Users\cader\Documents\Coding Projects\CIS 501\Projects\Final-Project\Shared\obj\Debug\net8.0-windows\ref\Shared.dll
